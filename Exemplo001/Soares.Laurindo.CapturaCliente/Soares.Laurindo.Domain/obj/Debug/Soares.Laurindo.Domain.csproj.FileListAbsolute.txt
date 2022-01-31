@@ -1,0 +1,6 @@
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\bin\Debug\Domain.dll
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\bin\Debug\Domain.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\obj\Debug\Soares.Laurindo.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\obj\Debug\Soares.Laurindo.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\obj\Debug\Domain.dll
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.Domain\obj\Debug\Domain.pdb

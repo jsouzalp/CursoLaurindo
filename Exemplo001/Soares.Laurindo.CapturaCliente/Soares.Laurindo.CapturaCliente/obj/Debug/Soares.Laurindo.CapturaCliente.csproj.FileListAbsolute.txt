@@ -1,0 +1,14 @@
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.CapturaCliente.exe.config
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.CapturaCliente.exe
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.CapturaCliente.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\obj\Debug\Soares.Laurindo.CapturaCliente.csproj.AssemblyReference.cache
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\obj\Debug\Soares.Laurindo.CapturaCliente.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\obj\Debug\Soares.Laurindo.CapturaCliente.exe
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\obj\Debug\Soares.Laurindo.CapturaCliente.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Domain.dll
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.Application.dll
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.Data.dll
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.Application.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Domain.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\bin\Debug\Soares.Laurindo.Data.pdb
+C:\Projetos\Cursos\Laurindo\Exemplo001\Soares.Laurindo.CapturaCliente\Soares.Laurindo.CapturaCliente\obj\Debug\Soares.Laurindo.CapturaCliente.csproj.CopyComplete
